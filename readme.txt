@@ -4,4 +4,4 @@ Git is a free software distributed under the GPL.
 //新状态。
 //2.
 //3.
-Creating a new branch is quick &simple.
+Creating a new branch is quick & simple.
